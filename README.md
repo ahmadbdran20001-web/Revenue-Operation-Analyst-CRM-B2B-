@@ -21,7 +21,7 @@ the data contains 1001 rows and 20 columns
 
 6. The dataset is now clean and ready for analysis.
 ## data analysis :
-                                                  Dashboard1(revenue analyst)
+                                              Dashboard1(revenue analyst)
                       
 <img src="D1.png" width="900">
 
@@ -148,7 +148,7 @@ Business Recommendations
 - Improve pipeline management by monitoring opportunities across each sales stage and identifying potential bottlenecks.
 - Use historical conversion rates and pipeline data to enhance revenue forecasting accuracy.
 
-                                              Dashboard4(funnel & forecasting)
+                                       Dashboard4(funnel & forecasting)
                       
 <img src="D1.png" width="900">
 
