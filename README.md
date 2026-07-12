@@ -59,7 +59,7 @@ Monthly Lead Generation Trends
 - The lowest lead volume occurred in Month 2 with 64 leads.
 - The increase in leads during the middle and later months suggests potential seasonal effects or improved marketing and sales activities.
 
-                                                      Dashboard1(revenue analyst)
+                                                      Dashboard2(customers analyst)
                       
 <img src="D2.png" width="900">
 
@@ -103,3 +103,47 @@ Business Recommendations
 - Continue investing in LinkedIn and other high-performing acquisition channels to maintain lead generation efficiency.
 - Analyze successful Enterprise and Mid-Market deals to identify patterns that can improve future sales strategies.
 - Use historical pipeline data to refine revenue forecasting and improve sales planning.
+
+                                                      Dashboard3(sale team analyst)
+                      
+<img src="D3.png" width="900">
+
+Sales Team Performance Insights
+
+Overall Sales Performance
+
+- The sales team achieved an overall win rate of 51.4%, indicating that more than half of the opportunities were successfully converted into closed deals.
+- The team generated a total closed deal value of $20M from 500 completed deals.
+- The total pipeline value reached $41M, representing significant revenue potential across active opportunities.
+- The sales funnel included 800 total opportunities, providing a comprehensive overview of sales performance and conversion efficiency.
+
+Deal Loss Analysis by Customer Segment
+
+- The Enterprise segment recorded the highest percentage of lost deals at 37%, followed by Mid-Market at 31% and SMB at 31%.
+- The higher loss rate in the Enterprise segment suggests a need to investigate potential challenges related to longer sales cycles, customer expectations, pricing, or competitive pressure.
+
+Average Sales Cycle Analysis
+
+- The average time required to close deals varied significantly across customer segments:
+  - Enterprise deals required the longest sales cycle with an average of 116 days.
+  - Mid-Market deals took an average of 57 days to close.
+  - SMB deals had the shortest sales cycle with an average of 18 days.
+- The longer Enterprise sales cycle highlights the importance of improving deal management strategies and maintaining strong engagement throughout the pipeline.
+
+Sales Funnel Stage Analysis
+
+- The opportunity distribution across pipeline stages was relatively balanced:
+  - Closed Won opportunities represented 143 deals.
+  - Discovery stage included 140 opportunities.
+  - Qualified opportunities accounted for 138 deals.
+  - Negotiation stage contained 137 opportunities.
+  - Proposal stage included 122 opportunities.
+  - Closed Lost opportunities accounted for 120 deals.
+- The balanced distribution across stages indicates a healthy sales pipeline, while the number of opportunities in early and middle stages provides potential for future revenue growth.
+
+Business Recommendations
+
+- Focus on reducing Enterprise deal losses by analyzing reasons behind unsuccessful opportunities and improving account strategies.
+- Optimize the Enterprise sales process to shorten the average sales cycle while maintaining deal quality.
+- Improve pipeline management by monitoring opportunities across each sales stage and identifying potential bottlenecks.
+- Use historical conversion rates and pipeline data to enhance revenue forecasting accuracy.
