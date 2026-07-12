@@ -23,7 +23,7 @@ the data contains 1001 rows and 20 columns
 ## data analysis :
                                                            Dashboard1(revenue analyst)
                       
-<img src="Dashboard.png" width="900">
+<img src="D1.png" width="900">
 
 Revenue Performance Overview
 
