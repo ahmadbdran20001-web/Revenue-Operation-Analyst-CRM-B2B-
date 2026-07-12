@@ -59,6 +59,44 @@ Monthly Lead Generation Trends
 - The lowest lead volume occurred in Month 2 with 64 leads.
 - The increase in leads during the middle and later months suggests potential seasonal effects or improved marketing and sales activities.
 
+                                                      Dashboard1(revenue analyst)
+                      
+<img src="D1.png" width="900">
+
+Customer Base Overview
+
+- The company has a total customer base of 400 customers.
+- The total Monthly Recurring Revenue (MRR) generated from customers is $958K, highlighting a strong recurring revenue model.
+- The customer base experienced an overall growth rate of 25%, indicating positive business expansion and customer acquisition performance.
+
+Customer Distribution by Segment
+
+- The customer distribution is relatively balanced across different segments:
+  - Enterprise customers represent the largest segment with 143 customers.
+  - Mid-Market customers account for 134 customers.
+  - SMB customers represent 123 customers.
+- The balanced customer mix shows that the company has successfully diversified its customer portfolio across different market segments.
+
+Customer Growth Trends Over Time
+
+- Customer acquisition remained consistent throughout the year with some fluctuations across months.
+- The highest customer growth was recorded in Month 11 with 49 new customers, followed by Month 4 with 36 customers and Month 12 with 37 customers.
+- The lowest growth occurred in Month 9 with 21 new customers.
+- The increase in customer growth during the final months indicates improved acquisition performance and potential impact from sales and marketing activities.
+
+MRR Contribution Analysis
+
+- The top 10 customers each generated an MRR of $5K, indicating a consistent contribution among the highest-value customers.
+- The equal MRR contribution from top customers suggests a balanced revenue distribution and reduces dependency on a small number of accounts.
+- Identifying and retaining high-value customers is essential for maintaining recurring revenue growth.
+
+Business Recommendations
+
+- Continue focusing on customer acquisition strategies that contributed to the strong growth rate of 25%.
+- Analyze the characteristics of Enterprise and Mid-Market customers to identify opportunities for upselling and expansion.
+- Develop customer retention strategies to protect recurring revenue and maximize customer lifetime value (CLV).
+- Monitor high-value accounts regularly to identify expansion opportunities and reduce churn risk.
+
 Business Recommendations
 
 - Focus on improving the Enterprise conversion rate due to the high number of lost deals despite strong revenue potential.
