@@ -61,7 +61,7 @@ Monthly Lead Generation Trends
 
                                                       Dashboard1(revenue analyst)
                       
-<img src="D1.png" width="900">
+<img src="D2.png" width="900">
 
 Customer Base Overview
 
