@@ -150,7 +150,7 @@ Business Recommendations
 
                                        Dashboard4(funnel & forecasting)
                       
-<img src="D1.png" width="900">
+<img src="D4.png" width="900">
 
 Funnel Analysis & Revenue Forecasting Insights
 
